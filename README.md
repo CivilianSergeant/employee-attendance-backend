@@ -15,6 +15,6 @@
 - MOCK_DATA.xlsx file read by application
 
 ## Front end embeded with spring boot application
-To run frontend app and backend app seperately please go to following repository to get front end app repository
-Front end repository: https://github.com/CivilianSergeant/employee-attenance-ui
+To run frontend app and backend app seperately please get front end app repository from here
+https://github.com/CivilianSergeant/employee-attenance-ui
 
