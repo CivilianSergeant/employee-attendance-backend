@@ -11,8 +11,9 @@
  - mvn clean
  - mvn install
  - execute command to run application as standalone java -jar target/app.jar
-## Uploads folder
-- MOCK_DATA.xlsx file read by application
+## uploads folder
+- a directory called "uploads" at appliaction root directory required for excel file 
+- uploads/MOCK_DATA.xlsx file read by application
 
 ## Front end embeded with spring boot application
 To run frontend app and backend app seperately please get front end app repository from here
