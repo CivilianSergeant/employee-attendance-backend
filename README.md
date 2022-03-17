@@ -7,7 +7,7 @@
 ## Maven 
  - mvn clean
  - mvn install
- - java -jar target/app.jar
+ - execute command to run application as standalone java -jar target/app.jar
 ## uploads folder
 - MOCK_DATA.xlsx file read by application
 
