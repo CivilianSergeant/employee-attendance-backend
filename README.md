@@ -1,5 +1,8 @@
 # Employee Attendance Backend
 
+## Database 
+- Postgresql
+- Check application.properties for detail
 ## Run Application
 - Open Prjoect Into Intelij IDE 
 - Build Project
