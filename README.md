@@ -8,7 +8,7 @@
  - mvn clean
  - mvn install
  - execute command to run application as standalone java -jar target/app.jar
-## uploads folder
+## Uploads folder
 - MOCK_DATA.xlsx file read by application
 
 ## Front end embeded with spring boot application
