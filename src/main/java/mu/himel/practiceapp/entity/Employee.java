@@ -26,7 +26,7 @@ public class Employee {
     @Transient
     private String outColor;
 
-    public String getInColor() {
+    public String  getInColor() {
         return inColor;
     }
 

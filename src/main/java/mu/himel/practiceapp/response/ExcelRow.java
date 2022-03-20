@@ -5,7 +5,8 @@ import mu.himel.practiceapp.entity.Employee;
 import java.util.List;
 
 public class ExcelRow{
-    List<Employee> employees;
+    private List<Employee> employees;
+
 
     public ExcelRow(List<Employee> employees) {
         this.employees = employees;
@@ -18,4 +19,6 @@ public class ExcelRow{
     public void setEmployees(List<Employee> employees) {
         this.employees = employees;
     }
+
+
 }
