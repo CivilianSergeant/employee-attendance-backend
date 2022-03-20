@@ -52,6 +52,13 @@
 			<version>6.19.0</version>
 		</dependency>
 		<dependency>
+			<groupId>local.Vrinda</groupId>
+			<artifactId>local.Vrinda-fonts</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/src/main/resources/Vrinda.jar</systemPath>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
